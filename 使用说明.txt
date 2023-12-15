@@ -1,0 +1,2 @@
+1，用trans_img对图片进行处理，选择要mask的地方，注意路径的修改，
+2，跑test.py文件 test.py的配置文件是conf下面的face_example_test.yml，里面有输入文件以及输出文件的路径
